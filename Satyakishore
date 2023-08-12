@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title> Portfolio | SATYA KISHORE </title>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/boots trap.min.css'><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<div class="shadow-title parallax-top-shadow">work</div>
+<div class="section-parallax parallax-00" style="background-image: url('http://www.ivang-design.com/s
+vg-load/parallax/parallax-0.png');"></div>
+<div class="section-parallax parallax-01" style="background-image: url('http://www.ivang-design.com/s vg-load/parallax/parallax-01.png');"></div>
+<div class="section full-height">
+<div class="section-title-wrap">
+<div class="container">
+<div class="row">
+<div class="col-12 text-center parallax-fade-top">
+<div class="container"> <div class="col-12 text-center parallax-fade-top">
+<h1>my<br>portfolio</h1>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section full-height z-bigger"> 
+<ul class="case-study-wrapper">
+<li class="case-study-name">
+<a href="#" class="hover-target">About</a>
+</li>
+<li class="case-study-name">
+<a href="#" class="hover-target">Projects</a>
+</li>
+<li class="case-study-name">
+<a href="#" class="hover-target">Skills</a>
+</li>
+<li class="case-study-name">
+<a href="#" class="hover-target">Courses</a>
+</li>
+
+
+
